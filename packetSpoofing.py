@@ -36,7 +36,7 @@ def banner():
    |   |   
    |   |                      /\
    |   \___________/\  /\    /  \_____________________
-   |   				 \/  \  /       [!] Expolit TM Tools -> sniff packet http (python3) v1.1
+   |   		     \/  \  /       [!] Expolit TM Tools -> sniff packet http (python3) v1.1
    |______________________\/_______________________| [ 2021 mey 28 ]
    example : python3 packetSpoofing.py -i eth0
           
